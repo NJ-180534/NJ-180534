@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicolas
+- 👀 I’m interested in tech, photography and traveling.
+- 🌱 I’m currently learning c# and some networking.
